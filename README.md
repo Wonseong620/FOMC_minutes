@@ -1,6 +1,6 @@
 # DisSim-FinBERT Dataset (Labeled 1,030 setnece)
   : Positive / Neutral / Negative for three aspect - Growth, Employment, Inflation
-
+  : https://arxiv.org/abs/2501.04959 (under review on publication)
 # FOMC_minutes Dataset
 
 ## ***Please reference the article***
