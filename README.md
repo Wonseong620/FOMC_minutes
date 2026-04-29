@@ -20,9 +20,6 @@ This work is connected to research on financial sentiment analysis and central b
 - Analyzing FOMC Minutes: Accuracy and Constraints of Language Models  
   https://arxiv.org/abs/2304.10164
 
-- DisSim-FinBERT labeled dataset and related aspect sentiment work  
-  https://arxiv.org/abs/2501.04959
-
 ## Data Availability
 
 Large or working data files are not stored in this repository. Use the linked Hugging Face model page for model access and related resources.
