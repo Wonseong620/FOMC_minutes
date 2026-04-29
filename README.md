@@ -17,11 +17,9 @@ This work is connected to research on financial sentiment analysis and central b
 - FinBERT-FOMC: Fine-tuned FinBERT Model with Sentiment Focus Method for Enhancing Sentiment Analysis of FOMC Minutes  
   https://dl.acm.org/doi/abs/10.1145/3604237.3626843
 
-- Is Small Really Beautiful for Central Bank Communication? Evaluating Language Models for Finance: Llama-3-70B, GPT-4, FinBERT-FOMC, FinBERT, and VADER
- https://dl.acm.org/doi/10.1145/3677052.3698675
+- Is Small Really Beautiful for Central Bank Communication? Evaluating Language Models for Finance: Llama-3-70B, GPT-4, FinBERT-FOMC, FinBERT, and VADER   https://dl.acm.org/doi/10.1145/3677052.3698675
 
-- Analyzing FOMC Minutes: Accuracy and Constraints of Language Models  
-  https://arxiv.org/abs/2304.10164
+- Analyzing FOMC Minutes: Accuracy and Constraints of Language Models  https://arxiv.org/abs/2304.10164
 
 ## Data Availability
 
