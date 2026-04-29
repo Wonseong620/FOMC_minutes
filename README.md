@@ -1,20 +1,32 @@
-# DisSim-FinBERT Dataset (Labeled 1,030 setnece)
-  : Positive / Neutral / Negative for three aspect - Growth, Employment, Inflation
-  : https://arxiv.org/abs/2501.04959 (under review on publication)
-# FOMC_minutes Dataset
+# FOMC Minutes Sentiment Resources
 
-## ***Please reference the article***
+This repository provides public research materials related to sentiment analysis of FOMC minutes and central bank communication.
 
-Gössi, S., Chen, Z., Kim, W., Bermeitinger, B., & Handschuh, S. (2023, November). FinBERT-FOMC: Fine-tuned FinBERT Model with sentiment focus method for enhancing sentiment analysis of FOMC minutes. In Proceedings of the Fourth ACM International Conference on AI in Finance (pp. 357-364). Paper: https://dl.acm.org/doi/abs/10.1145/3604237.3626843
+## Linked Model
 
-Kim, Wonseong, Jan Frederic Spörer, and Siegfried Handschuh. (2023). "Analyzing FOMC Minutes: Accuracy and Constraints of Language Models." arXiv preprint arXiv:2304.10164. Paper: https://arxiv.org/abs/2304.10164 (in journal review)
+The related FinBERT model for FOMC aspect sentiment classification is available on Hugging Face:
 
-## Description
+https://huggingface.co/Wonseong/FinBERT-FOMC-aspects
 
-The research was done as a fellow in the “Young Researchers Exchange Programme between South Korea and Switzerland” under the “South Korean-Swiss Science and Technology Programme”.
+The model is built for text classification across FOMC-relevant aspects such as growth, employment, and inflation.
 
-The dataset, named 'fomc_minutes-label.csv', comprises 1,350 sentences each labeled under one of three categories: 'growth', 'employment', and 'inflation'. These labels were meticulously assigned by a team of three graduate researchers, all males aged between 20 to 30 years, to facilitate the training of large language models. Our methodology for labeling involved reaching a consensus among the researchers; a sentence was labeled based on a sentiment only if at least two researchers agreed on the classification. In cases where no majority agreement was reached, the sentence was categorized under 'No majority found', which is eliminated in the dataset. This dataset was instrumental in fine-tuning FinBERT and served as a benchmark to assess the model's performance in interpreting complex financial texts.
+## Research Background
 
-Version 1. First dataset used in research: https://arxiv.org/abs/2304.10164
- / Version 2. used in research: https://dl.acm.org/doi/abs/10.1145/3604237.3626843
- / **Version 3. is updated here: the recent paper is in review.**
+This work is connected to research on financial sentiment analysis and central bank communications, including:
+
+- FinBERT-FOMC: Fine-tuned FinBERT Model with Sentiment Focus Method for Enhancing Sentiment Analysis of FOMC Minutes  
+  https://dl.acm.org/doi/abs/10.1145/3604237.3626843
+
+- Analyzing FOMC Minutes: Accuracy and Constraints of Language Models  
+  https://arxiv.org/abs/2304.10164
+
+- DisSim-FinBERT labeled dataset and related aspect sentiment work  
+  https://arxiv.org/abs/2501.04959
+
+## Data Availability
+
+Large or working data files are not stored in this repository. Use the linked Hugging Face model page for model access and related resources.
+
+## Citation
+
+If you use these materials, please cite the related papers above and reference the linked Hugging Face model where appropriate.
