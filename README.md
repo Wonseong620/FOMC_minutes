@@ -14,8 +14,7 @@ The model is built for text classification across FOMC-relevant aspects such as 
 
 This work is connected to research on financial sentiment analysis and central bank communications, including:
 
-- FinBERT-FOMC: Fine-tuned FinBERT Model with Sentiment Focus Method for Enhancing Sentiment Analysis of FOMC Minutes  
-  https://dl.acm.org/doi/abs/10.1145/3604237.3626843
+- FinBERT-FOMC: Fine-tuned FinBERT Model with Sentiment Focus Method for Enhancing Sentiment Analysis of FOMC Minutes   https://dl.acm.org/doi/abs/10.1145/3604237.3626843
 
 - Is Small Really Beautiful for Central Bank Communication? Evaluating Language Models for Finance: Llama-3-70B, GPT-4, FinBERT-FOMC, FinBERT, and VADER   https://dl.acm.org/doi/10.1145/3677052.3698675
 
