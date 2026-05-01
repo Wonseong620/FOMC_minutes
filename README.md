@@ -7,6 +7,7 @@ This repository provides public research materials related to sentiment analysis
 The related FinBERT model for FOMC aspect sentiment classification is available on Hugging Face:
 
 https://huggingface.co/Wonseong/FinBERT-FOMC-aspects
+https://huggingface.co/ZiweiChen/FinBERT-FOMC
 
 The model is built for text classification across FOMC-relevant aspects such as growth, employment, and inflation.
 
